@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities"
+title:  "Phượt Vũng Tàu, chúng tôi đi xe đạp"
 author: tuananhhodien
-categories: [ Jekyll, tutorial ]
+categories: [ Phượt ]
 image: assets/images/home.jpg
 tags: [sticky]
 ---
