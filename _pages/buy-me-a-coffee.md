@@ -3,10 +3,8 @@ title: "Buy me a coffee"
 permalink: "/buy-me-a-coffee.html"
 ---
 
-Hi! I am Sal, web designer & developer at WowThemes.net. The free items I create are my side projects and **Mundana for Jekyll** is one of them. You can find **all the work I release for free [here](https://www.wowthemes.net/category/free-themes-templates/)**. 
-
-You have my permission to use the free items I develop in your personal, commercial or client projects. If you'd like to reward my work, I would be honored and I could dedicate more time maintaining the free projects. 
+Hi, my name is Tuan Anh Ho Dien, I love learning and sharing anything, my ideas to make to better world is trying to learn and share knowledge to everyone. In this case, we are not only help ourselves, but also contribute to our world.
 
 Thank you so much!
 
-<a class="btn btn-danger" href="https://www.wowthemes.net/donate/">Buy me a coffee</a>
+Donation: ![alt text]({{ site.baseurl }}/assets/images/momo.JPG "Momo")
