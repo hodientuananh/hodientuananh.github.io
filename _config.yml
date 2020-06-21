@@ -1,6 +1,6 @@
 # Site
-name: 'Tuan Anh Ho Dien'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Home'
+description: 'This is a home page'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
