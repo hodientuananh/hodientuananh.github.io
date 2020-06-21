@@ -4,7 +4,7 @@ title:  "Phượt Vũng Tàu, chúng tôi đi xe đạp"
 author: tuananhhodien
 categories: [ Phượt ]
 image: assets/images/2016-01-16-vungtau/home.jpg
-tags: [sticky]
+tags: [featured]
 ---
 
 ## Ngày đầu tiên (9/1/2016) – Hứng khởi, mệt mỏi và chúng tôi về đích.
