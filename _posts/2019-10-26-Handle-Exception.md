@@ -8,6 +8,7 @@ tags: [featured]
 ---
 
 # Phân loại lỗi:
+![alt text]({{ site.baseurl }}/assets/images/2019-10-26-handle-exception/home.png)
 ## Exceptions: Tất cả các exceptions hệ thống quăng ra.
 a.	Checked: Các Exceptions được hệ thống quăng ra giúp chúng ta (quá trình compile time)
 Ví dụ: IOException, SQL Exception, …
@@ -52,6 +53,7 @@ Ref: https://www.restapitutorial.com/httpstatuscodes.html
 ```
 ## Rule 3: Luôn luôn thows exceptions và catch exceptions throws ra với log.error(described message).
 •	Lý do log.error – debug issue của backend dễ dàng hơn.
+```java
 try {
     Desktop desktop = Desktop.getDesktop();
     
@@ -64,8 +66,10 @@ try {
     log.error("openBrowserWithUrl = " + url + " fail");
     throw e;
 }
+```
 ## Rule 4: Luôn luôn thows exceptions và catch exceptions throws ra với log.error(described message, exeption) ở cấp cao nhất (thường là tầng controller)
 Lý do: Lúc này vừa log được exceptions, vừa print stack trace để biết code lỗi chỗ nào
+```java
 try {
     String token = getToken(TOKEN_URL);
     String message = getWelcomeMessageWithAuth(token, MESSAGE_URL);
@@ -73,4 +77,5 @@ try {
 } catch (Exception e) {
     log.error("searchOnBrowserWithMessage fail ", e); 
 }
+```
 ## Rule 5: Tất cả những lỗi thuộc về validation syntax sẽ được xử lý trước, sau đó mới tới các lỗi xử lý ở tầng business (database, business rule).
