@@ -31,6 +31,7 @@ Chuẩn hiển thị ngày tháng và múi giờ máy và người có thể hi�
 ## Tài liệu tham khảo
 * Cách insert cột timestamp vào Oracle đảm bảo chuẩn ISO 8601. [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database/18/sqlrf/TO_UTC_TIMESTAMP_TZ.html#GUID-1728EE3E-EC0C-4FA8-B404-99C0A445CE82)
 Ví dụ:
+
 ```sql
 UPDATE MI_INFO_TEST
 SET START_DATE = TO_UTC_TIMESTAMP_TZ('2019-10-15T17:00:00.000Z')
@@ -95,6 +96,30 @@ Lợi ích:
 * Back end sẽ phải thêm logic xử lý request từ timezone khác để xem với timezone đó thì chương trình có hợp lệ.
 * Database phải thêm cột offset.
 * Rule Back End sẽ bị vi phạm, tức là nếu hệ thống bị thay đổi thành múi giờ khác thì coi như mọi thông tin của database đều vô giá trị. Vì backend giờ sẽ hiểu database ở một múi giờ khác (không còn +00:00).
-
 ### Chuyển tất cả thông tin ngày thành String
+Không còn quan tâm tới vấn đề chênh lệch múi giờ, mọi thông tin đều tường minh.
+Lợi ích:
+* Front end và Back end không còn quan tâm đến múi giờ, gửi thông tin nào thì sẽ nhận lại ngày đó, database cũng sẽ lưu thông tin dưới dạng String, không còn quan tâm đến giờ.
+* Sau này nếu 1 timezone khác tham gia vào chương trình sẽ không còn quan tâm đến múi giờ chênh lệch => dễ mở rộng múi giờ.
+* Việc hiển thị ngày request khi nhận thông tin từ server Azure/ server Việt Nam về sẽ giống với lúc gửi đi, không cần thêm bớt offset nữa => dễ sử dụng.
+* Đáp ứng được 2 rules handle.
+* Đáp ứng được rule back end.
+* Database không cần thay đổi.
+Đánh đổi:
+* Front end và Back end phải thống nhất một format để xử lý Date sau này.
+* Vi phạm các best practices. => sẽ khó sửa chữa sau này.
+* Database sẽ vi phạm rule => sẽ đánh đổi sau này.
 ### Cố định database ở mốc thời gian Việt Nam
+Chuyển start date + end date thành dạng timestamp (dạng duy nhất cố định múi giờ UTC) và start date + end date theo khung giờ Việt Nam.
+Cụ thể: 
+![alt text]({{ site.baseurl }}/assets/images/2019-11-29-lech-mui-gio/co-dinh-database.png)
+Lợi ích:
+* Đáp ứng được 3 rule handle.
+* Đáp ứng được rule back end.
+* Database sẽ đáp ứng được rule.
+* Đáp ứng các best practices.
+* Việc hiển thị ngày request khi nhận thông tin từ server Azure/ server Việt Nam về sẽ giống với lúc gửi đi, không cần thêm bớt offset nữa => dễ sử dụng.
+Đánh đổi:
+* Front end và Back end sẽ phải thay đổi lại theo chuẩn ISO8601.
+* Database phải thay đổi (Tất cả cột liên quan đến Date).
+* Sau này nếu 1 timezone khác tham gia vào chương trình sẽ phải quan tâm đến timezone của chương trình => Bài toán hiện xử lý cho thị trường Việt Nam.
