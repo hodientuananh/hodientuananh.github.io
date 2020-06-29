@@ -8,6 +8,7 @@ tags: [featured]
 ---
 
 # Một số khái niệm
+![alt text]({{ site.baseurl }}/assets/images/2019-11-29-lech-mui-gio/home.jpg)
 ## Chuẩn ISO 8601
 Chuẩn hiển thị ngày tháng và múi giờ máy và người có thể hiểu. [wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
 ## Một số quy ước
