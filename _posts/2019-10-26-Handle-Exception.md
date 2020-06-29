@@ -25,8 +25,7 @@ Ví dụ: Server từng có một file lưu thông tin về config (config), nh�
 
 ## Rule 1: Quy ước về header status
 * Client side: header status = 400 (Bad Request)
-* Server side: header status = 500 (Internal Server Error)
-Ref: https://www.restapitutorial.com/httpstatuscodes.html
+* Server side: header status = 500 (Internal Server Error). Ref: https://www.restapitutorial.com/httpstatuscodes.html
 ## Rule 2: Response body lỗi luôn ở format
 ```json
 {
