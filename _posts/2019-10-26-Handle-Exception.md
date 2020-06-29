@@ -23,11 +23,11 @@ Ví dụ: Input của người dùng nhập cmnd nhưng không tìm thấy cmnd 
 Ví dụ: Server từng có một file lưu thông tin về config (config), nhưng không tồn tại sau quá trình dev, khi đó file config không đọc được, lỗi IOException sẽ quăng ra.
 # Xử lý lỗi: Lỗi không handled được sẽ được throws ra.
 
-### Rule 1: Quy ước về header status
+## Rule 1: Quy ước về header status
 * Client side: header status = 400 (Bad Request)
 * Server side: header status = 500 (Internal Server Error)
 Ref: https://www.restapitutorial.com/httpstatuscodes.html
-### Rule 2: Response body lỗi luôn ở format:
+## Rule 2: Response body lỗi luôn ở format
 ```json
 {
     "statusCode": 400, // Client or Server side 
@@ -52,7 +52,7 @@ Ref: https://www.restapitutorial.com/httpstatuscodes.html
     ]
 }
 ```
-### Rule 3: Luôn luôn thows exceptions và catch exceptions throws ra với log.error(described message).
+## Rule 3: Luôn luôn thows exceptions và catch exceptions throws ra với log.error(described message)
 Lý do log.error – debug issue của backend dễ dàng hơn.
 ```java
 try {
@@ -68,7 +68,7 @@ try {
     throw e;
 }
 ```
-### Rule 4: Luôn luôn thows exceptions và catch exceptions throws ra với log.error(described message, exeption) ở cấp cao nhất (thường là tầng controller)
+## Rule 4: Luôn luôn thows exceptions và catch exceptions throws ra với log.error(described message, exeption) ở cấp cao nhất (thường là tầng controller)
 Lý do: Lúc này vừa log được exceptions, vừa print stack trace để biết code lỗi chỗ nào
 ```java
 try {
@@ -79,4 +79,4 @@ try {
     log.error("searchOnBrowserWithMessage fail ", e); 
 }
 ```
-### Rule 5: Tất cả những lỗi thuộc về validation syntax sẽ được xử lý trước, sau đó mới tới các lỗi xử lý ở tầng business (database, business rule).
+## Rule 5: Tất cả những lỗi thuộc về validation syntax sẽ được xử lý trước, sau đó mới tới các lỗi xử lý ở tầng business (database, business rule).
