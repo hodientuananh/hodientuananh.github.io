@@ -14,14 +14,14 @@ tags: [featured]
 Ví dụ: IOException, SQL Exception, …
 ### Unchecked: Các Exceptions xuất hiện trong quá trình runtime.
 Ví dụ: NullPointerException, ClasscastException
-#### Handled: Theo business, những Exceptions nào sẽ được Handled để xử lý
+#### Handled: Theo business, những Exceptions nào sẽ được Handled để xử lý.
 Ví dụ: Khi đọc từ db không thấy record (EntityNotFoundException) nhưng business là insert mới vào nếu không có, khi này sẽ được handled.
 #### Unhanded: Khi không biết phải xử lý sao với exceptions, khi này sẽ throws Exceptions cho function cao hơn.
-##### Client: Lỗi thuộc về Client, lỗi này do input của người nhập sai format hoặc thông tin không phù hợp với Business
+##### Client: Lỗi thuộc về Client, lỗi này do input của người nhập sai format hoặc thông tin không phù hợp với Business.
 Ví dụ: Input của người dùng nhập cmnd nhưng không tìm thấy cmnd trong db.
 ##### Server: Lỗi này thuộc về Server, lỗi này do xử lý của server không bị về mặt kỹ thuật.
 Ví dụ: Server từng có một file lưu thông tin về config (config), nhưng không tồn tại sau quá trình dev, khi đó file config không đọc được, lỗi IOException sẽ quăng ra.
-# Xử lý lỗi: Lỗi không handled được sẽ được throws ra
+# Xử lý lỗi: Lỗi không handled được sẽ được throws ra.
 
 ### Rule 1: Quy ước về header status
 * Client side: header status = 400 (Bad Request)
@@ -53,7 +53,7 @@ Ref: https://www.restapitutorial.com/httpstatuscodes.html
 }
 ```
 ### Rule 3: Luôn luôn thows exceptions và catch exceptions throws ra với log.error(described message).
-•	Lý do log.error – debug issue của backend dễ dàng hơn.
+Lý do log.error – debug issue của backend dễ dàng hơn.
 ```java
 try {
     Desktop desktop = Desktop.getDesktop();

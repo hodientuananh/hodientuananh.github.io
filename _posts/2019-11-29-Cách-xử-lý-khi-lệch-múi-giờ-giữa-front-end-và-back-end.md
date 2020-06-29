@@ -32,8 +32,8 @@ Chuẩn hiển thị ngày tháng và múi giờ máy và người có thể hi�
 ## Tài liệu tham khảo
 * Cách insert cột timestamp vào Oracle đảm bảo chuẩn ISO 8601. [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database/18/sqlrf/TO_UTC_TIMESTAMP_TZ.html#GUID-1728EE3E-EC0C-4FA8-B404-99C0A445CE82)
 Ví dụ:
-
 ```sql
+
 UPDATE MI_INFO_TEST
 SET START_DATE = TO_UTC_TIMESTAMP_TZ('2019-10-15T17:00:00.000Z')
 WHERE MI_CODE = 'GIFT_INFO_2020';
@@ -41,6 +41,7 @@ WHERE MI_CODE = 'GIFT_INFO_2020';
 UPDATE MI_INFO_TEST
 SET END_DATE = TO_UTC_TIMESTAMP_TZ('2020-03-15T16:59:59.000Z')
 WHERE MI_CODE = 'GIFT_INFO_2020';
+
 ```
 
 * Tại sao nên lưu ngày vào DATE/ Timestamp thay vì VARCHAR. [stackoverflow](https://stackoverflow.com/questions/4759012/when-to-use-varchar-and-date-datetime)
