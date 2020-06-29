@@ -13,24 +13,24 @@ tags: [featured]
 Chuẩn hiển thị ngày tháng và múi giờ máy và người có thể hiểu. [wikipedia](https://en.wikipedia.org/wiki/ISO_8601)
 ## Một số quy ước
 ### Ngày bắt đầu chương trình MI
-#### Oracle: "2019-10-15 17:00:00.0 +00:00"
-#### Javascript:
+* Oracle: "2019-10-15 17:00:00.0 +00:00"
+* Javascript:
     * new Date('2019-10-15 17:00:00.0 +0:00')
     * Wed Oct 16 2019 00:00:00 GMT+0700 (Indochina Time)
     * "2019-10-15T17:00:00.000Z"
-#### Java: "2019-10-15 17:00:00.0 +0:00"
+* Java: "2019-10-15 17:00:00.0 +0:00"
 ### Ngày kết thúc chương trình MI
-#### Oracle: "2020-03-15 16:59:59.0 +0:00"
-#### Javascript:
-##### new Date("2020-03-15 16:59:59.0 +0:00")
-##### Sun Mar 15 2020 23:59:59 GMT+0700 (Indochina Time)
-##### "2020-03-15T16:59:59.000Z"
-#### Java: "2020-03-15 16:59:59.0 +00:00"
+* Oracle: "2020-03-15 16:59:59.0 +0:00"
+* Javascript:
+    * new Date("2020-03-15 16:59:59.0 +0:00")
+    * Sun Mar 15 2020 23:59:59 GMT+0700 (Indochina Time)
+    * "2020-03-15T16:59:59.000Z"
+* Java: "2020-03-15 16:59:59.0 +00:00"
 ### Múi giờ
-#### UTC: múi giờ 00:00
-#### Việt Nam = Indochina Time = +07:00
+* UTC: múi giờ 00:00
+* Việt Nam = Indochina Time = +07:00
 ## Tài liệu tham khảo
-#### Cách insert cột timestamp vào Oracle đảm bảo chuẩn ISO 8601. [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database/18/sqlrf/TO_UTC_TIMESTAMP_TZ.html#GUID-1728EE3E-EC0C-4FA8-B404-99C0A445CE82)
+* Cách insert cột timestamp vào Oracle đảm bảo chuẩn ISO 8601. [Oracle](https://docs.oracle.com/en/database/oracle/oracle-database/18/sqlrf/TO_UTC_TIMESTAMP_TZ.html#GUID-1728EE3E-EC0C-4FA8-B404-99C0A445CE82)
 Ví dụ:
 ```
 UPDATE MI_INFO_TEST
