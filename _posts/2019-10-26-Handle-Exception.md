@@ -23,7 +23,7 @@ Ví dụ: Input của người dùng nhập cmnd nhưng không tìm thấy cmnd 
 Ví dụ: Server từng có một file lưu thông tin về config (config), nhưng không tồn tại sau quá trình dev, khi đó file config không đọc được, lỗi IOException sẽ quăng ra.
 # Xử lý lỗi: Lỗi không handled được sẽ được throws ra
 
-### Rule 1: 
+### Rule 1: Quy ước về header status
 * Client side: header status = 400 (Bad Request)
 * Server side: header status = 500 (Internal Server Error)
 Ref: https://www.restapitutorial.com/httpstatuscodes.html
