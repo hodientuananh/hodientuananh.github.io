@@ -3,7 +3,7 @@ layout: post
 title:  "Chuyện tình ở đồi Notting"
 author: tuananhhodien
 categories: [ Phim ảnh ]
-image: assets/images/2020-08-23-noting-hill/home.jpg
+image: assets/images/2020-08-23-notting-hill/home.jpg
 tags: [featured]
 ---
 Tình yêu - ai cũng phải một lần trãi qua, dù là một người nổi tiếng hay là một diễn viên đóng vai người nổi tiếng,
@@ -53,6 +53,7 @@ Nụ cười trên khuân mặt em làm anh biết rằng em cần anh
 Sự thật trong đôi mắt em cho anh biết rằng em sẽ không rời xa anh
 Và cái chạm tay của em nói rằng em sẽ giữ anh khi anh ngã
 Em thể hiện những điều tuyệt vời đó khi mà em không nói gì cả
+
 # Xung đột
 Đó là khi anh chàng William được mời về nhà Anna nhưng lại gặp người bạn trai từ bên Mỹ về của cô, anh bị xem thường như là một 
 gã bồi bàn thực sự, lúc này trong anh là suy nghĩ của một kẻ yếu thế, anh hiểu rằng với tới Anna là một điều gì đó ngoài 
@@ -90,7 +91,7 @@ của một người con gái trước một người con trai.
 >“I’m also just a girl, standing in front of a boy, asking him to love her.”
 > Dù sao thì em cũng là một cô gái bình thường, đứng trước mặt một chàng trai, tha thiết mong anh ấy sẽ yêu mình.
 
-![alt text]({{ site.baseurl }}/assets/images/2020-08-23-noting-hill/1.png)
+![alt text]({{ site.baseurl }}/assets/images/2020-08-23-notting-hill/1.png)
 William tin rằng đây là một quyết định đúng của mình, anh để Anna ra đi và quay về với những người bạn anh tin tưởng. Nhưng thực tâm 
 trong suy nghĩ của mình, anh vẫn phân vân liệu đó là một quyết định đúng của mình, rõ ràng trong anh vẫn còn yêu Anna rất nhiều, 
 nhưng tất cả chỉ vì sợ bị tổn thương một lần nữa nên anh mới quyết định không thể tiếp tục với cô. Và rồi, nhờ những người bạn 
