@@ -99,9 +99,7 @@ Và kết quả thì tôi xin để cho các bạn xem phim sẽ rõ :).
 # Suy ngẫm
 Dù bạn là một người ở đỉnh cao danh vọng, được mọi người mến mộ thì không có nghĩa là bạn sẽ trọn vẹn trong tình yêu và cuộc 
 sống, luôn có những khó khăn mà chỉ người trong cuộc mới hiểu. Như cô nàng Anna, dù sao thì cô ấy vẫn là một cô gái và vẫn 
-mong muốn một tình yêu từ một chàng trai, không phải bạn là một người ở đỉnh cao danh vọng, được mọi người mến mộ thì
- có nghĩa là bạn sẽ trọn vẹn trong tình yêu và cuộc sống, luôn có những khó khăn mà chỉ người trong cuộc mới hiểu. Như cô nàng Anna, 
- dù sao thì cô ấy vẫn là một cô gái và vẫn mong muốn một tình yêu từ một chàng trai, không phải là một anh chàng cũng đỉnh cao danh vọng như chàng bạn trai người Mỹ, mà 
+mong muốn một tình yêu từ một chàng trai, không phải là một anh chàng cũng đỉnh cao danh vọng như chàng bạn trai người Mỹ, mà 
 là một anh chàng thực sự mang đến cho cô niềm vui của sự yêu thương và chính chắn của người nếm trãi thất bại đắng cay của cuộc 
 sống, không ai khác là William. Tình yêu đó là sự đồng điệu cảm xúc của cả 2 người, ở đó họ cảm thấy cần có nhau và cảm thấy yên tâm 
 khi được bên nhau. Nếu William không tha thứ cho Anna khi cô không nói thật với anh về anh bạn trai người Mỹ, hay nếu Anna không đứng trước 
