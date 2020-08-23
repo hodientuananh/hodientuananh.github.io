@@ -26,7 +26,7 @@ họ chính thức hẹn hò.
 Được mời đến dự sinh nhật cô em gái của William, họ cùng tham gia một trò chơi có tên là "Ai là kẻ khốn khổ nhất" để dành phần 
 thưởng là chiếc bánh cuối cùng của, đó là lúc anh chàng William trãi lòng về mối tình vừa ly dị của mình, anh đã phải sống 
 một mình một cách buồn bã vì trót thể hiện con người của mình quá chân thật. Nhưng nó vẫn không bằng trãi lòng của cô diễn viên 
-nổi tiếng Anna, cô cảm thấy mình thật đau khổ vì phải trãi qua 2 cuộc phẫu thuật trên khuân mặt để cô giữ được nét xinh xắn của mình, 
+nổi tiếng Anna, cô cảm thấy mình thật đau khổ vì phải trãi qua 2 cuộc phẫu thuật trên khuôn mặt để cô giữ được nét xinh xắn của mình, 
 nhưng điều đó cũng nhất thời vì cô tưởng tượng mình sẽ già và không còn ai ngưỡng mộ cô nữa, lúc đó cô phải sống lủi thủi một 
 mình mà không có một ai để yêu thương - "… rồi tôi sẽ chỉ còn là người phụ nữ trung niên buồn bã trông giống như ai đó từng nổi 
 tiếng một thời mà thôi". Cuộc sống ai cũng vậy, những gì họ thể hiện chỉ là phần đẹp nhất, nhưng có ai ngờ được 
@@ -48,7 +48,7 @@ You say it best when you say nothing at all.
 Không bằng ngôn từ, em thắp sáng đêm đen.
 Cố gắng như anh nhưng anh vẫn không thể giải thích được.
 Những gì anh thực sự cảm thấy khi em không nói một từ.
-Nụ cười trên khuân mặt em làm anh biết rằng em cần anh.
+Nụ cười trên khuôn mặt em làm anh biết rằng em cần anh.
 Sự thật trong đôi mắt em cho anh biết rằng em sẽ không rời xa anh.
 Và cái chạm tay của em nói rằng em sẽ giữ anh khi anh ngã.
 Em thể hiện những điều tuyệt vời đó khi mà em không nói gì cả.
