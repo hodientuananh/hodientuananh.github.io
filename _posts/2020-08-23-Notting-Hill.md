@@ -76,7 +76,7 @@ có biết bao là kỷ niệm tuyệt vời bên nhau. Anh lủi thủi đi v�
 Nhưng ngày hôm sau, trước ngưỡng cửa hiệu sách nhỏ đồi Notting, Anna cầm trong tay bản gốc của bức tranh La Mariee - bức tranh 
 mà William rất thích miêu tả về tình yêu, như lời Anna nói - "thể hiện chính xác cảm giác khi yêu". Anna cố gắng giải thích 
 cho William về việc xem anh là bạn bình thường, đó là không muốn để một kẻ tọc mạch biết về việc đời tư của cô. Anh lắng nghe 
-chăm chú lắng nghe nhưng cuối cùng cũng từ chối và để lại mọi chuyện phía sau.
+chăm chú nhưng cuối cùng cũng từ chối và để lại mọi chuyện phía sau.
 # Gỡ nút
 Cô bối rối, với cô, là một người được triệu người khác ngưỡng mộ, cô không ngờ sự từ chối này, cô cũng mỉm cười đồng ý, dù sự tổn 
 thương hiện rõ trên khuôn mặt kiều diễm của cô, có một sự vụn vỡ bên trong cô, cô chỉ biết cuối mặt nhìn xuống. William giải thích thêm,
@@ -85,14 +85,14 @@ thương hiện rõ trên khuôn mặt kiều diễm của cô, có một sự v
  sẽ không thể với tới cô, khi mà anh là một gã vô danh tiểu tốt ở thị trấn bình thường tên Notting Hill, còn cô là một minh tinh 
  ở Berverly Hill cơ mà. Những gì anh nói như là một nhát dao cắt đứt hy vọng của cô, cô hiểu đó là sự từ chối nhẹ nhàng từ anh. 
  > Giữ nụ cười toả sáng trên môi, cô bình tĩnh và giấu nỗi đau trong tim. Cô nói rằng anh đã có quyết định đúng đắn và cô hiểu 
-điều đó. Nhưng cô cũng nói thêm rằng - Sự nổi tiếng, nó có là thật đâu anh. Cô nhìn thằng vào mắt ánh, nói với tất cả sự chân thật 
+điều đó. Nhưng cô cũng nói thêm rằng - Sự nổi tiếng, nó có là thật đâu anh. Cô nhìn thằng vào mắt anh, nói với tất cả sự chân thật 
 của một người con gái trước một người con trai.
 >“I’m also just a girl, standing in front of a boy, asking him to love her.”
 > Dù sao thì em cũng là một cô gái bình thường, đứng trước mặt một chàng trai, tha thiết mong anh ấy sẽ yêu mình.
 
 ![alt text]({{ site.baseurl }}/assets/images/2020-08-23-notting-hill/1.png)
 William tin rằng đây là một quyết định đúng của mình, anh để Anna ra đi và quay về với những người bạn anh tin tưởng. Nhưng thực tâm 
-trong suy nghĩ của mình, anh vẫn phân vân liệu đó là một quyết định đúng của mình, rõ ràng trong anh vẫn còn yêu Anna rất nhiều, 
+trong suy nghĩ của mình, anh vẫn phân vân liệu đó là một quyết định đúng đắn, rõ ràng trong anh vẫn còn yêu Anna rất nhiều, 
 nhưng tất cả chỉ vì sợ bị tổn thương một lần nữa nên anh mới quyết định không thể tiếp tục với cô. Và rồi, nhờ những người bạn 
 của anh, anh hiểu rằng những gì Anna nói là tận đáy lòng của mình, anh quyết định phải cầu xin sự tha thứ của Anna.
 Và kết quả thì tôi xin để cho các bạn xem phim sẽ rõ :).
