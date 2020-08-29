@@ -8,13 +8,13 @@ tags: [featured]
 ---
 Không còn là những thông tin về năm tháng chiến tranh khô khan, sử việt 12 khúc tráng ca tiếp cận với người đọc bằng 
 những sự kiện xuyên suốt quá trình giành nước và giữ nước của ông cha ta, từ Ngô Quyền đấu giành lại độc lập thống nhất 
-đất nước sau 1000 năm bắc thuộc đến việc Nam tiến mở rộng bờ cõi của vua Minh Mạng, tất cả là một đoạn anh hùng ca của 
+đất nước sau 1000 năm Bắc thuộc đến việc Nam tiến mở rộng bờ cõi của vua Minh Mạng, tất cả là một đoạn anh hùng ca của 
 tiền nhân. Như tác giả Dũng Phan đã nói - “Một dân tộc chỉ có thể bước đến tương lai trên đôi chân vững vàng của lịch sử. 
 Bởi lịch sử là bài học tiền nhân để lại cho hậu thế, là kho tàng kiến thức phát triển tương lai, tránh những sai lầm của 
 quá khứ.”. Quyển sách là sự khơi gợi lòng say mê sử nhà để đi đến tình yêu rộng hơn là tình yêu đất nước với lòng tự hào 
 dân tộc.
 # Cơ duyên
-Đó là một buổi chiều khi tôi lùng sục những bài viết về lịch sử nhưng với góc nhìn là một người tò mò những sự điều chưa 
+Đó là một buổi chiều khi tôi lùng sục những bài viết về lịch sử nhưng với góc nhìn là một người tò mò những điều chưa 
 được biết tới. Tôi tiếp cận được fan page - The X File History - do anh Dũng Phan làm admin, lúc đó là một chân trời rộng 
 mở với tôi vì những bài viết trên đó thực sự là một bộ tư liệu thú vị không chỉ gói gọn những sự kiện mà SGK lịch sử ngày 
 xưa truyền đạt. Đó là sự phân tích những sự kiện đã xảy ra với góc nhìn của một Kỹ Sư Xây Dựng, anh dùng suy luận logic 
@@ -34,16 +34,16 @@ ban đầu cho việc dành lại chính quyền vào tay người Việt một 
 dựng lực lượng đấu tranh, đặt nền móng cho Ngô Quyền - sau này khi có được sự tự chủ thì chiến thắng Ngô Quyền chỉ là sự 
 tự khẳng định về lãnh thổ người Việt sẽ thuộc về người Việt. 
 Hay một câu hỏi khác đó là sự lên ngôi của Lê Hoàn trong lúc giặc Tống đang lăm le bờ cõi có thực sự là một việc giao 
-quyền thoán vị êm đềm vậy không? Khi đứng trước quyết định phải cho quân ra bảo vệ bờ cõi, thái tử Đinh Toàn thì còn 
+quyền thoán vị êm đềm như vậy không? Khi đứng trước quyết định phải cho quân ra bảo vệ bờ cõi, thái tử Đinh Toàn thì còn 
 quá nhỏ và không thể đánh giá được công lao các tướng trong lần ra quần này, thế là thái hậu Dương Văn Nga khoác áo bào 
 trao ngôi vương cho thập đạo tướng quân Lê Hoàn, chính thức chuyển giao quyền lực từ nhà Đinh sang nhà Tiền Lê một cách 
 êm thắm? Thực sự đó là một câu chuyện dài và đẫm máu trong trang sử giành quyền lực của Lê Hoàn từ rất lâu rồi chứ không 
-đơn giản là trong ngày ra quân.
+đơn giản là trao áo bào suy Lê Hoàn làm vương.
 Cái hay của quyển sách đó là không đưa ra một dòng sự kiện không liên quan, nó là quan hệ nhân quả và nối tiếp nhau trong 
 dòng chảy lịch sử. Điều này làm cho người đọc cũng phải tư duy tới lý luận của tác giả có thật sự hợp lý hay không, tất 
 nhiên mọi điều được kết luận trong quyển sách chỉ là giả thuyết, nhưng nó có vẻ hợp lý nhất trong các giả thiết được đặt 
 ra. Tư duy phản biện được đề cao khi bạn đọc quyển sách này, vì bạn sẽ không phải chỉ tiếp cận trên 1 giả thuyết là quan 
-điểm chủ quan của tác gỉa mà đó là rất nhiều luận điểm khác nhau, điều đó giúp bạn có nhiều góc nhìn khá hay về một vấn đề 
+điểm chủ quan của tác giả mà đó là rất nhiều luận điểm khác nhau, điều đó giúp bạn có nhiều góc nhìn khá hay về một vấn đề 
 và việc bạn tin vào luận điểm nào là tuỳ vào góc nhìn của bạn - thực tế, mơ mộng hay theo thuyết âm mưu :).
 # Kết
 Khép lại quyển sách, tôi xin trích lại "Hịch tướng sĩ" của Hưng Đạo Đại Vương Trần Quốc Tuấn để thấy sự hào hùng trong 
