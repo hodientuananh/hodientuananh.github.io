@@ -17,6 +17,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+
+# Google services
+google_analytics: UA-145926986-1
   
 authors:
     tuananhhodien:
