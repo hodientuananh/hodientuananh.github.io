@@ -31,10 +31,10 @@ xuất phát.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/5.JPG)
 Chặng đường đầu tiên khá bằng phẳng, chúng tôi chỉ xuyên qua những đồng lúa vàng ươm giữa trời mưa lâm râm, điều đáng sợ 
 nhất là vượt qua những lùm cây sình lầy đầy vắt, một người anh của chúng tôi đã bắt 3, 4 con vắt trước khi chụp tấm ảnh 
-checking này :).
+check-in này :).
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/6.JPG)
 Chặng tiếp theo là khi chúng tôi thực sự phải chiến đấu với những con dốc đi lên mỗi lúc một cao, đường không còn bằng 
-phẳng nữa mà mỗi lúc một nhiều thử thách hơn, đường vừa trơn trượt vừa leo cao nên chúng tôi di chuyển khá chậm. 
+phẳng nữa mà mỗi lúc một nhiều thử thách hơn, vừa trơn trượt vừa cheo leo nên chúng tôi di chuyển khá chậm. 
 Không ngoa khi nói đây là ngày của những con dốc.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/7.JPG)
 Và ngày của những con suối :).
@@ -42,11 +42,11 @@ Và ngày của những con suối :).
 Dù đã là 12h giờ trưa, mà trên đỉnh núi vẫn còn sương mù, chúng tôi tưởng tượng như đang lạc giữa những tầng mây và xa 
 xăm là những núi rừng trùng điệp. Không khí lành lạnh miền núi nhưng vì đi ra mồ hôi nhiều nên không cảm thấy lạnh mấy.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/9.JPG)
-Và đã tới nơi đánh giá cột mốc checking Tà Năng - Phan Dũng. Giờ thì đừng bảo đoàn tôi chưa đặt chân đến đây nhé :).
+Và đã tới nơi đánh giá cột mốc check-in Tà Năng - Phan Dũng. Giờ thì đừng bảo đoàn tôi chưa đặt chân đến đây nhé :).
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/10.jpg)
 Điều thú vị ở nơi khỉ ho cò gáy này lại có nước giải khát phục vụ tận miệng, không tin được là giá chỉ 30k/ 1 chai, quá 
-rẻ cho công sức người dân đèo rừng lên tận đây để bán nước. Được biết người dân nơi đây được biết trước sẽ có đoàn 
-nào ghé qua trong ngày để họ chuẩn bị sẵn từ sớm, nhưng họ phải chạy xe chuyên dụng giữa rừng để đợi sẵn, bình thường sẽ 
+rẻ cho công sức người dân đèo rừng lên tận đây để bán nước. Được biết người dân nơi đây sẽ biết trước có đoàn 
+nào ghé qua trong ngày để họ chuẩn bị sẵn từ sớm, nhưng họ phải chạy xe chuyên dụng giữa rừng để đợi, bình thường sẽ 
 có rất nhiều cô chú như vậy đợi khách tới, nhưng hôm đó đoàn tôi chỉ gặp duy nhất một anh.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/11.JPG)
 Đi tiếp vài tiếng nữa, lúc này là 3h chiều và chúng tôi đã đến được nơi cắm trại, phải nói ai cũng mừng vì cuối cùng 
@@ -54,7 +54,7 @@ cũng đến được điểm dừng chân, dù vẫn còn sớm nhưng như th�
  thử thách không hề đơn giản, đặc biệt là khi đoàn chúng tôi có nữ.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/12.jpg)
 Phew, xả hơi nào ...
-![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/13.jpg)
+![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/13.JPG)
 Chủ tour của chúng tôi đã lên đây từ 1 ngày trước để chuẩn bị lều trại và đồ ăn, khi vừa đặt chân vào lều là đã thấy anh 
 ngồi nướng sẵn gà và ngồi đợi mọi người tắm rửa cho buổi tối.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/14.jpg)
@@ -72,15 +72,15 @@ tràng cười giòn giã vì anh đoán hơi trật :)))). Tối đó chúng t�
 tã đang rơi rả rít bên ngoài.
 # Ngày tiếp theo - Xuống dốc thoai thoải
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/17.jpg)
-Sáng sớm hôm sau chúng tôi được lót dạ bằng ly mỳ thịt bò ấm nóng, tiết trời sáng miền núi khá mát mẻ và tôi tự pha cho 
+Sáng sớm hôm sau chúng tôi được lót dạ bằng ly mỳ thịt bò KHO, tiết trời sáng miền núi khá mát mẻ và tôi tự pha cho 
 mình một ly cafe sữa ấm nóng, tận hưởng hương thơm mát rượi của rừng núi sau mưa.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/18.jpg)
-Thu dọn lều trại, đoàn chúng tôi đã sẵn sàng cho một ngày khám phá tiếp theo, thời tiết hôm đó khá mát mẻ, dù là mưa tối 
-qua nhưng tôi cảm thấy con đường sẽ bớt gian nan hôm qua vì hôm nay chúng tôi chỉ toàn xuống dốc.
-![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/19.jpg)
+Thu dọn lều trại, đoàn chúng tôi đã sẵn sàng cho một ngày khám phá tiếp theo, dù là mưa tối qua nhưng tôi cảm thấy con 
+đường sẽ bớt gian nan hôm qua vì hôm nay chúng tôi chỉ toàn xuống dốc.
+![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/19.JPG)
 Đoạn đường hôm đó khá dễ dàng dù là đoạn leo dốc, đường khá bằng phẳng và không bị sình lầy nhiều, thế nên hôm đó chúng 
 tôi di chuyển khá nhanh.
-![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/20.jpg)
+![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/20.JPG)
 Đoàn tranh thủ selfie một tấm vì đoạn đường sắp tới chỉ toàn là trong rừng, sẽ không còn cảnh núi cao trùng điệp như thế 
 này nữa.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/21.JPG)
@@ -102,5 +102,4 @@ cũng đói nên ăn khá ngon miệng. Sau bữa ăn, đoàn chia một nhóm v
 >Cảm ơn chuyến đi, tôi được quen thêm những người bạn mới, cảm thấy mình vẫn còn nhiều nơi chưa biết và sẽ tiếp tục đi 
 >cho tới khi đôi chân vẫn còn chưa mỏi.
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1gFM2PC_HtE/0.jpg)](http://www.youtube.com/watch?v=1gFM2PC_HtE)
->Video made by me.
 
