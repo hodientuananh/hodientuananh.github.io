@@ -72,14 +72,14 @@ tràng cười giòn giã vì anh đoán hơi trật :)))). Tối đó chúng t�
 tã đang rơi rả rít bên ngoài.
 # Ngày tiếp theo - Xuống dốc thoai thoải
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/17.jpg)
-Sáng sớm hôm sau chúng tôi được lót dạ bằng ly mỳ thịt bò KHO, tiết trời sáng miền núi khá mát mẻ và tôi tự pha cho 
+Sáng sớm hôm sau chúng tôi được lót dạ bằng ly mỳ thịt bò kho, tiết trời sáng miền núi khá mát mẻ và tôi tự pha cho 
 mình một ly cafe sữa ấm nóng, tận hưởng hương thơm mát rượi của rừng núi sau mưa.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/18.jpg)
 Thu dọn lều trại, đoàn chúng tôi đã sẵn sàng cho một ngày khám phá tiếp theo, dù là mưa tối qua nhưng tôi cảm thấy con 
 đường sẽ bớt gian nan hôm qua vì hôm nay chúng tôi chỉ toàn xuống dốc.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/19.JPG)
-Đoạn đường hôm đó khá dễ dàng dù là đoạn leo dốc, đường khá bằng phẳng và không bị sình lầy nhiều, thế nên hôm đó chúng 
-tôi di chuyển khá nhanh.
+Đoạn đường hôm đó khá dễ dàng dù là đoạn leo dốc, đường bằng phẳng và không bị sình lầy nhiều, thế nên hôm đó chúng 
+tôi di chuyển nhanh hơn bình thường.
 ![alt text]({{ site.baseurl }}/assets/images/2020-10-31-ta-nang-phan-dung/20.JPG)
 Đoàn tranh thủ selfie một tấm vì đoạn đường sắp tới chỉ toàn là trong rừng, sẽ không còn cảnh núi cao trùng điệp như thế 
 này nữa.
@@ -101,5 +101,6 @@ cũng đói nên ăn khá ngon miệng. Sau bữa ăn, đoàn chia một nhóm v
 >Với tôi, 2 ngày qua đã là đủ để tôi tách khỏi cuộc sống nhộn nhịp Sài Gòn để hoà mình vào thiên nhiên núi rừng yên tĩnh. 
 >Cảm ơn chuyến đi, tôi được quen thêm những người bạn mới, cảm thấy mình vẫn còn nhiều nơi chưa biết và sẽ tiếp tục đi 
 >cho tới khi đôi chân vẫn còn chưa mỏi.
+
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/1gFM2PC_HtE/0.jpg)](http://www.youtube.com/watch?v=1gFM2PC_HtE)
 
