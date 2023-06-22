@@ -57,3 +57,5 @@ giặc, mẹo cờ bạc không đủ thi hành mưu lược nhà binh. Vườn 
 không ích gì cho việc quân quốc. Tiền của dẫu lắm không mua được đầu giặc; chó săn tuy hay không đuổi được quân thù. 
 Chén rượu ngon ngọt không làm giặc say chết; giọng hát réo rắt không làm giặc điếc tai. Lúc bấy giờ chúa tôi nhà ta 
 đều bị bắt, đau xót biết chừng nào.
+> # Link mua sách
+> [Sử Việt – 12 Khúc Tráng Ca (Tái Bản)](https://shorten.asia/XYha9CDH)
