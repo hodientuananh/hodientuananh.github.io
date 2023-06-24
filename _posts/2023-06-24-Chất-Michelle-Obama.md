@@ -12,8 +12,6 @@ Bạn có muốn tìm hiểu về hành trình đầy cảm hứng của Michell
 
 ![alt text]({{ site.baseurl }}/assets/images/2023-06-24-becoming-michelle/1.jpg)
 
-Michelle quote
-
 Michelle Obama sinh ngày 17/1/1964 và lớn lên trong một khu vực ở Chicago. Bà không được sinh ra trong một gia đình giàu có và được nuôi dưỡng trong một môi trường khó khăn, nhưng với tinh thần quyết tâm và nỗ lực, bà đã thành công trong sự nghiệp của mình và trở thành một người phụ nữ quyền lực. Sau khi tốt nghiệp đại học Princeton và học tiến sĩ luật tại đại học Harvard, bà bắt đầu làm việc như một luật sư tại công ty luật Austin. Bà đã gặp Barack Obama trong vai trò của một luật sư và cuộc gặp gỡ này đã tạo nên một hành trình mới cho đến khi bà trở thành "Đệ nhất phu nhân Mỹ".
 
 Bà là một người phụ nữ không được coi là đẹp. Khi bà xuất hiện bên cạnh Barack Obama - Tổng thống Mỹ da màu đầu tiên của nước Mỹ - mọi người đều chú ý đến bà, thậm chí có những bài phân tích nhân tướng học cho rằng Michelle "không có tướng vượng phu". Nhưng Michelle Obama đã vượt qua những định kiến và nhận xét khắc nghiệt đó. Một lần khi đi ăn ở một nhà hàng nhỏ, bà gặp chủ nhà hàng từng yêu bà say đắm thời niên thiếu. Barack Obama đã nói: "Nếu em lấy người chủ nhà hàng đó, em sẽ là bà chủ của nhà hàng tuyệt vời này". Michelle Obama đã trả lời: "Không, nếu em lấy anh ấy, anh ấy sẽ trở thành Tổng thống". Với sự tự tin và luôn tin tưởng vào chính mình, Michelle Obama đã trở thành một trong những phu nhân Hoa Kỳ được yêu mến nhất, thậm chí hơn cả chồng bà - Tổng thống Obama.
