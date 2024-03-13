@@ -2,11 +2,11 @@
 layout: post
 title:  "Kỳ tích sông Hàn - chuyện kể về một quốc gia phi thường"
 author: tuananhhodien
-categories: [ Sách ]
+categories: [ Suy ngẫm ]
 image: assets/images/2024-03-13-ky-tich-song-han/home.jpg
 tags: [featured]
 ---
-![alt text]({{ site.baseurl }}/assets/images/2024-03-13-ky-tich-song-han/1.jpeg)
+![alt text]({{ site.baseurl }}/assets/images/2024-03-13-ky-tich-song-han/1.jpg)
 # Giới thiệu
 "Kỳ tích sông Hàn" - một từ không quá xa lại với mọi người, với ý nghĩa nói về sự tiến bộ phi thường của Hàn Quốc. Từ một quốc gia khốn khó và bị tàn phá do chiến tranh, Hàn Quốc đã trở thành một "con hổ châu Á". Sông Hàn, chảy êm đềm qua thủ đô Seoul, ngoài việc là một phần của lịch sử, nó còn thể hiện sự phát triển đáng kinh ngạc của quốc gia này xuyên suốt quá trình phát triển.
 # Hành trình từ tro tàn
