@@ -8,7 +8,7 @@ tags: [featured]
 ---
 ![alt text]({{ site.baseurl }}/assets/images/2024-03-13-ky-tich-song-han/1.jpg)
 # Giới thiệu
-"Kỳ tích sông Hàn" - một từ không quá xa lại với mọi người, với ý nghĩa nói về sự tiến bộ phi thường của Hàn Quốc. Từ một quốc gia khốn khó và bị tàn phá do chiến tranh, Hàn Quốc đã trở thành một "con hổ châu Á". Sông Hàn, chảy êm đềm qua thủ đô Seoul, ngoài việc là một phần của lịch sử, nó còn thể hiện sự phát triển đáng kinh ngạc của quốc gia này xuyên suốt quá trình phát triển.
+"Kỳ tích sông Hàn" - một từ không quá xa lại với mọi người, với ý nghĩa nói về sự tiến bộ phi thường của Hàn Quốc. Từ một quốc gia khốn khó và bị tàn phá do chiến tranh, Hàn Quốc đã trở thành một "con hổ châu Á". Sông Hàn, chảy êm đềm qua thủ đô Seoul, ngoài việc là một phần của lịch sử, nó còn thể hiện sự phát triển đáng kinh ngạc của quốc gia này xuyên suốt quá trình dựng nước.
 # Hành trình từ tro tàn
 Sau cuộc chiến tranh Triều Tiên vào những năm 1950-1953, Hàn Quốc chịu đựng những hậu quả nặng nề, khiến nền kinh tế của họ đổ vỡ. GDP trung bình đầu người lúc đó chỉ vỏn vẹn 67 USD, thấp hơn rất nhiều so với nhiều quốc gia ở châu Phi. Hậu quả của cuộc chiến lan tràn khắp mọi mặt của đời sống, với cơ sở hạ tầng đổ nát, con người Hàn Quốc rơi vào hoàn cảnh khốn khó và nghèo đói. 
 # Bước ngoặt lịch sử
