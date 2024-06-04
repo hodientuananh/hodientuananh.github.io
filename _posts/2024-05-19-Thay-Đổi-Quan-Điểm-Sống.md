@@ -4,6 +4,7 @@ title:  "Thay Đổi Quan Điểm Sống Khi Gặp Thất Bại Nhiều Hơn"
 author: tuananhhodien
 categories: [ Suy ngẫm ]
 image: assets/images/2024-05-19-quan-diem-song/home.jpg
+tags: [featured]
 ---
 # Thay Đổi Quan Điểm Sống Khi Gặp Thất Bại Nhiều Hơn
 
