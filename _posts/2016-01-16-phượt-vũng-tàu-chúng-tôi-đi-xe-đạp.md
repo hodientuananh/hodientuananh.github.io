@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Phượt Vũng Tàu, chúng tôi đi xe đạp"
-author: tuananhhodien
+author: hodientuananh
 categories: [ Phượt ]
 image: assets/images/2016-01-16-vungtau/home.jpg
 tags: [featured]
