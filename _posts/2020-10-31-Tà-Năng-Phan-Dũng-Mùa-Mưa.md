@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hành trình Tà Năng - Phan Dũng mùa mưa"
-author: tuananhhodien
+author: hodientuananh
 categories: [ Phượt ]
 image: assets/images/2020-10-31-ta-nang-phan-dung/home.jpg
 tags: [featured]

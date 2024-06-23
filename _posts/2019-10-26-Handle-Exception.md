@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Handle Exception"
-author: tuananhhodien
+author: hodientuananh
 categories: [ Lập trình ]
 image: assets/images/2019-10-26-handle-exception/home.png
 tags: [featured]

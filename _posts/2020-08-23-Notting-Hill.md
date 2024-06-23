@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chuyện tình ở đồi Notting"
-author: tuananhhodien
+author: hodientuananh
 categories: [ Phim ảnh ]
 image: assets/images/2020-08-23-notting-hill/home.jpg
 tags: [featured]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Sử Việt 12 Khúc Tráng Ca"
-author: tuananhhodien
+author: hodientuananh
 categories: [ Sách ]
 image: assets/images/2020-08-29-su-viet-12-khuc-trang-ca/home.jpg
 tags: [featured]

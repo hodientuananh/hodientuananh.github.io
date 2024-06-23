@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Kỳ tích sông Hàn - chuyện kể về một quốc gia phi thường"
-author: tuananhhodien
+author: hodientuananh
 categories: [ Suy ngẫm ]
 image: assets/images/2024-03-13-ky-tich-song-han/home.jpg
 tags: [featured]
