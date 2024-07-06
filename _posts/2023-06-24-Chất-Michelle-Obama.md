@@ -4,7 +4,6 @@ title:  "Becoming - Michelle Obama"
 author: hodientuananh
 categories: [ Sách ]
 image: assets/images/2023-06-24-becoming-michelle/home.jpg
-tags: [featured]
 ---
 # Về tác giả Michelle Obama
 

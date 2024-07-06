@@ -4,7 +4,6 @@ title:  "Sử Việt 12 Khúc Tráng Ca"
 author: hodientuananh
 categories: [ Sách ]
 image: assets/images/2020-08-29-su-viet-12-khuc-trang-ca/home.jpg
-tags: [featured]
 ---
 Không còn là những thông tin về năm tháng chiến tranh khô khan, sử việt 12 khúc tráng ca tiếp cận với người đọc bằng 
 những sự kiện xuyên suốt quá trình giành nước và giữ nước của ông cha ta, từ Ngô Quyền đấu giành lại độc lập thống nhất 

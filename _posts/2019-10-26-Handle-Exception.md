@@ -4,7 +4,6 @@ title:  "Handle Exception"
 author: hodientuananh
 categories: [ Lập trình ]
 image: assets/images/2019-10-26-handle-exception/home.png
-tags: [featured]
 ---
 
 # Phân loại lỗi:

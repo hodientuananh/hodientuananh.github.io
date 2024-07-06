@@ -4,7 +4,6 @@ title:  "Chuyện tình ở đồi Notting"
 author: hodientuananh
 categories: [ Phim ảnh ]
 image: assets/images/2020-08-23-notting-hill/home.jpg
-tags: [featured]
 ---
 Tình yêu - ai cũng phải một lần trãi qua, dù là một người nổi tiếng hay là một diễn viên đóng vai người nổi tiếng,
 họ cũng cần tình yêu. Có được những điều mà mọi người ao ước, danh vọng, tiền bạc hay sự ngưỡng mộ, nhưng họ vẫn phải đi 

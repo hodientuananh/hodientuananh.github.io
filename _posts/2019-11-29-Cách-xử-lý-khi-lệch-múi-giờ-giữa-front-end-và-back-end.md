@@ -4,7 +4,6 @@ title:  "Cách xử lý khi lệch múi giờ giữa front end và back end"
 author: hodientuananh
 categories: [ Lập trình ]
 image: assets/images/2019-11-29-lech-mui-gio/home.jpg
-tags: [featured]
 ---
 
 # Một số khái niệm

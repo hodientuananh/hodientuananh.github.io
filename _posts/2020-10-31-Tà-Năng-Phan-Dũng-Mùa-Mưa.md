@@ -4,7 +4,6 @@ title:  "Hành trình Tà Năng - Phan Dũng mùa mưa"
 author: hodientuananh
 categories: [ Phượt ]
 image: assets/images/2020-10-31-ta-nang-phan-dung/home.jpg
-tags: [featured]
 ---
 Cung đường Tà Năng - Phan Dũng là cung đường được mệnh danh là cung trekking đẹp nhất miền Nam. Đi cung đường này vào 
 những ngày mưa là một trãi nghiệm khó quên, ngoài những sình lầy cản trở mà cung đường mang lại, còn những vẻ đẹp hùng 

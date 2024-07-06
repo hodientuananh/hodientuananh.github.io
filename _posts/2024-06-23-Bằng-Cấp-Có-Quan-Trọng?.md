@@ -4,7 +4,7 @@ title:  "Bằng Cấp Có Quan Trọng Không?"
 author: hodientuananh
 categories: [ Suy ngẫm ]
 image: assets/images/2024-06-23-bang-cap-quan-trong/home.jpg
-tags: [featured]
+tags: [sticky]
 ---
 # Đặt vấn đề
 Bằng cấp có quan trọng không? Đây là một câu hỏi mà nhiều người, đặc biệt là những ai đang theo đuổi con đường học vấn và sự nghiệp, đều từng tự hỏi. Khi nhìn vào những tấm gương thành công của các tỉ phú công nghệ như Mark Zuckerberg, người từ bỏ Đại học để phát triển Facebook, hay Steve Jobs, người nghỉ học giữa chừng nhưng vẫn xây dựng được đế chế Apple, ta dễ dàng bị cuốn vào suy nghĩ rằng tài năng sẽ tự khắc đưa ta đến đỉnh cao mà không cần đến bằng cấp. Tuy nhiên có thật sự đơn giản như vậy không? Trước khi trả lời câu hỏi này, hãy cùng mình xem qua hai câu chuyện thực tế mà mình đã được gặp.
