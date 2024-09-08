@@ -20,9 +20,10 @@ tâm trạng háo hức đợi bản dịch tập 7 cũng là cuối cùng để
     - Tâm lương thiện: Dù sống trong nhà Dusley bị áp bức rất nhiều, nhưng Harry cảm thông vì biết phận mình là ở ké. Tâm thiện cũng được chứng minh trong quá trình học ở Hogwart (do tính cách).
     - Sức mạnh tình bạn: (Cái này Anime hay đề cao) Với Harry, Ron và Hermione là 2 người bạn thực sự, Harry cảm thấy đau buồn khi bạn mình bị gặp vấn đề. Quá trình học ở Hogwart, bộ 3 này chia sẻ trải nghịệm và hỗ trợ nhau qua nhiều khó khăn, điều đó chỉ xuất hiện ở tình bạn đích thực (do tính cách).
     - Sự cảm thông: Harry cũng buồn cho những người mà Harry quan tâm, ví dụ như khi Buckbeak sắp bị giết, Hagrid rất đau buồn và Harry cũng cảm nhận được nỗi buồn của bác Hagrid (do tính cách).
+
 # Lựa chọn mỗi người
-1. Voldermort chọn Slytherin vì đam mê quyền lực, muốn chứng minh dòng máu phù thuỷ cao quý của mình -> vì bản thân.
-2. Harry chọn Grinfindor vì sự dũng cảm và sự công bằng cho người xung quanh -> vì mọi người.
+- Voldermort chọn Slytherin vì đam mê quyền lực, muốn chứng minh dòng máu phù thuỷ cao quý của mình -> vì bản thân.
+- Harry chọn Grinfindor vì sự dũng cảm và sự công bằng cho người xung quanh -> vì mọi người.
 
 # Kết luận
 Về background thì ai cũng bá đạo, duy chỉ vì cái lý do mà 2 người chọn thì dẫn đến 2 con đường khác nhau. Một người chỉ nghĩ cho bản thân -> theo hắc ám, người thì nghĩ cho bản thân, bạn bè và gia đình -> theo chánh đạo. Nên mình nghĩ quan trọng là cái lý do ban đầu của lựa chọn thì nó sẽ định hình được cái kết quả thôi, nếu chỉ vì bản thân thì sẵn sàng hại người khác để bản thân có lợi ích, còn vì cả bản thân gia đình xã hội thì sẽ làm sao dung hoà được (có thể xử người bị tội nhé :)).
