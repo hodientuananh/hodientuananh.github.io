@@ -2,7 +2,7 @@
 layout: post
 title:  "You can outsource your thinking but not your understanding"
 author: hodientuananh
-categories: [ Cách sống ]
+categories: [ Suy ngẫm ]
 image: assets/images/2026-06-15-outsource-thinking/home.jpg
 ---
 # Giới thiệu
