@@ -47,5 +47,3 @@ Gần 17h, và chúng tôi đã qua được phà, đến địa phận quận 7
 Tổng kết: 
 À, làm gì thì cũng phải có lời tổng kết chứ nhỉ. Mỗi chuyến đi đều cho tôi một bài học nho nhỏ mà ít khi nào tôi chia sẻ cho người khác, vì những bài học này chỉ có thể hiểu nếu người ta thực sự đã trải nghiệm nó, vậy cứ coi như đây là note của riêng tôi mà ai có duyên thì đọc vậy ^^. Tôi không nghĩ chuyến đi này ý nghĩa nhất là khi về đích, mà nằm ở cố gắng trên đoạn đường đi, nếu tôi cứ nghĩ còn bao lâu nữa thì đến đích hay chặng đường sao xa quá, có lẽ tôi sẽ không rảnh rỗi kể viết note kể lể (just joking). Với tôi, cứ mỗi lần đạp pedal xe, tôi lại tự nhủ, mục tiêu tiếp của tôi là lần đạp tiếp theo, tôi quên bén mất mình đang đi Vũng Tàu mất rồi, nhưng tôi lại có hứng khởi để tiếp tục tiến tới. 
 > Tôi học được bài học rằng, nhiều khi một cuộc hành trình gian khó, một mục tiêu xa vời sẽ rất dễ làm ta nản chí, nhưng nếu mục tiêu chúng ta thật nhỏ thôi, nhưng nó giúp ta tiến lại càng gần hơn cái đích và cho ta niềm vui hoàn thành, chúng ta sẽ đi được xa hơn ta nghĩ.
-
-Sài Gòn, ngày 16 tháng 1, 2016.

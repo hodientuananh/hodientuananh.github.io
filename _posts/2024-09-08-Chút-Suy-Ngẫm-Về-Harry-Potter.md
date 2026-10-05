@@ -27,5 +27,3 @@ tâm trạng háo hức đợi bản dịch tập 7 cũng là cuối cùng để
 
 # Kết luận
 Về background thì ai cũng bá đạo, duy chỉ vì cái lý do mà 2 người chọn thì dẫn đến 2 con đường khác nhau. Một người chỉ nghĩ cho bản thân -> theo hắc ám, người thì nghĩ cho bản thân, bạn bè và gia đình -> theo chánh đạo. Nên mình nghĩ quan trọng là cái lý do ban đầu của lựa chọn thì nó sẽ định hình được cái kết quả thôi, nếu chỉ vì bản thân thì sẵn sàng hại người khác để bản thân có lợi ích, còn vì cả bản thân gia đình xã hội thì sẽ làm sao dung hoà được (có thể xử người bị tội nhé :)).
-
-Sài Gòn, 8-9-2024.

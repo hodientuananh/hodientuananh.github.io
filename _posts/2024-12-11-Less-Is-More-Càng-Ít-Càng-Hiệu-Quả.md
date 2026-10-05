@@ -6,7 +6,7 @@ categories: [ Cách sống ]
 image: assets/images/2024-12-11-less-is-more/home.jpg
 ---
 # Giới thiệu
-Less is more - Một cụm từ có vẻ không còn quá xa lạ cho những bạn theo lối sống tối giản. Theo khái niệm [Wiki](https://en.wikipedia.org/wiki/Less_is_more#:~:text=Less%20is%20more%20is%20a,literature%2C%20music%2C%20and%20lifestyle), less is more có ý nghĩa là giữ cho mọi thứ thật đơn giản, tương tự việc tối giản hoá, ý tưởng của việc này là càng đơn giản và rõ ràng bao nhiêu thì sự hiệu quả càng tặng. Có khá là nhiều lĩnh vực có thể áp dụng lối tư duy này, đầu tiên nó bắt nguồn từ lĩnh vực kiến trúc và thiết kế, sau đó là âm nhạc và nghệ thuật, trong bài viết này mình sẽ đề cập trong một mặt mình hay dùng - cách sống.
+Less is more - Một cụm từ có vẻ không còn quá xa lạ cho những bạn theo lối sống tối giản. Theo khái niệm [Wiki](https://en.wikipedia.org/wiki/Less_is_more#:~:text=Less%20is%20more%20is%20a,literature%2C%20music%2C%20and%20lifestyle), less is more có ý nghĩa là giữ cho mọi thứ thật đơn giản, tương tự việc tối giản hoá, ý tưởng của việc này là càng đơn giản và rõ ràng bao nhiêu thì sự hiệu quả càng tăng. Có khá là nhiều lĩnh vực có thể áp dụng lối tư duy này, đầu tiên nó bắt nguồn từ lĩnh vực kiến trúc và thiết kế, sau đó là âm nhạc và nghệ thuật, trong bài viết này mình sẽ đề cập trong một mặt mình hay dùng - cách sống.
 
 # Đặt vấn đề
 Với sự phát triển của nền tảng thương mại điện tử, việc tiếp cận đến những món hàng tiện ích ngày càng một đơn giản. Tiki, Shopee, Lazada đã mang đến cho chúng ta sự tiện lợi chưa bao giờ có, ngày xưa có lẽ phải chạy ra từng hiệu sách và đọc thử chương đầu để biết là quyển sách đó có thực sự phù hợp với mình không. Còn bây giờ chúng ta có thể ở nhà, search phần tóm tắt hay review và click chuột, vài ngày sau là chúng ta sẽ có một quyển sách ship thẳng đến nơi chúng ta ở. Chính vì sự tiện lợi đó, chúng ta dần hình thành thói quen mua sắm online.
@@ -21,15 +21,13 @@ Lý do mình nói vậy là do khi có máy đọc sách bên cạnh mình rút 
 
 **Điều hiệu quả thứ hai** là mình bớt phải suy nghĩ trong đầu là hôm nay mình nên mang quyển nào để đọc. Việc phải mang sách giấy làm cho mình phải đắn đo nên mang trong balo quyển nào thực sự phù hợp với cảm xúc và sở thích của mình trong ngày hôm đó, đôi khi nó sẽ tốn thời gian và sẽ không thực sự phù hợp.
 
-# Hiệu quả:
+# Hiệu quả
 Chính vì sự hiệu quả mình đã liệt kê, tự mình cảm thấy đầu óc mình càng nhẹ nhàng hơn. Nhiều khi cảm giác tinh gọn lại vật dụng để mình cần làm là lấy ra ngay lập tức, trường hợp ở đây là máy đọc sách để phục vụ nhu cầu tra cứu và giải trí, chứ không phải suy nghĩ nên phải chuẩn bị gì, làm sao mình có thể đọc lại để chiêm nghiệm nhiều hơn từ những quyển mình đã đọc.
 Cảm giác không gian làm việc và học tập được tinh gọn một cách tối ưu, lên bàn làm việc, muốn đọc thì lấy máy đọc sách, muốn code thì lấy laptop, mọi thứ rất rõ ràng và đơn giản. Mình còn làm sạch giá sách bằng cách cho bạn bè mình những quyển sách mà mình có thể thêm vào trong Kindle Paperwhite để tránh sự trùng lặp.
 
-# Kết luận:
+# Kết luận
 Tóm lại, bản thân mình cảm thấy tập trung được vào những cái thực sự cần. Ở trường hợp này mình lấy từ một kinh nghiệm thực tế của bản thân để minh hoạ cho triết lý "Less is more". Tất nhiên, còn nhiều khía cạnh khác bản thân cũng giành thời gian suy nghĩ về việc đã thực sự tối giản chưa, có thể đúc rút một câu.
 >"Càng ít điều không cần thiết, sự hiệu quả càng tăng"
 
-# Chú thích:
+# Chú thích
 Ở đây mình đề cao tính đơn giản nên mình chỉ tập trung vào việc chuyển dần qua máy đọc sách thay cho sách giấy, sẽ có nhiều bạn cảm thấy việc đọc sách giấy vẫn là một trãi nghiệm tuyệt vời vì cảm giác cầm sách giấy sẽ có mùi thơm và cảm giác lật từng trang giấy mới rất là thích, đó là tập trung vào trãi nghiệm vẫn đúng nhé, tuỳ vào quan điểm từng bạn thôi. Còn lại là quan điểm cá nhân bản thân mình thôi.
-
-Sài Gòn, 11/12/2024.

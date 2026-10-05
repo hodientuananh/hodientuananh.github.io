@@ -42,5 +42,3 @@ Thất bại trong việc học thạc sỹ dạy tôi rằng, làm gì cũng c�
 ## Kết Luận
 
 Mỗi thời điểm trong cuộc đời đều mang đến những trải nghiệm khác nhau. Mỗi trải nghiệm là một bài học, giúp ta trưởng thành hơn. Học từ sai lầm là một cách học, và đôi khi bài học từ thất bại còn giá trị hơn bài học từ thành công. Nỗi đau từ thất bại để lại nhiều cảm xúc và kỉ niệm, giúp ta ghi nhớ lâu hơn và trưởng thành hơn.
-
-Sài Gòn, 19-5-2024.
